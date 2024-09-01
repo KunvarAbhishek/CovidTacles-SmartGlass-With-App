@@ -59,4 +59,4 @@ The **Covid Tackles with Smart Glass** is a practical solution designed to help 
 
 
 ## **License**
-This project is licensed under [Abhishek Gupta's License]. No commercial or domestic use of this idea or approach is permitted without the explicit permission of Abhishek Gupta.
+This project is licensed and copyright under Abhishek Gupta's. No commercial or domestic use of this idea or approach is permitted without the explicit permission of Abhishek Gupta.
